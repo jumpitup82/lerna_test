@@ -1,6 +1,6 @@
 {
   "name": "lerna_package1",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "test lerna",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lerna_package2": "^0.0.3"
+    "lerna_package2": "^1.0.0"
   }
 }
